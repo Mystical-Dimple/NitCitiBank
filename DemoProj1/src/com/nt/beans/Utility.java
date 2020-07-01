@@ -8,6 +8,7 @@ public class Utility {
 	}
 	public void m1() {
 		System.out.println("Utility Method m1():Static Block");
+		System.out.println("Static Blocks");
 	}
 
 }
